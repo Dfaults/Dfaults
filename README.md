@@ -44,11 +44,11 @@
 <!-- The next section will display the Dfaults youtube channel latest videos within the BLOG-POST-LIST block but will only be visible in the Github website -->
 
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox Tier 0 Starting Point: Meow](https://www.youtube.com/watch?v=_IbF8546NP4)
 - [HackTheBox Tier 0 Starting Point: Redeemer](https://www.youtube.com/watch?v=80vwiOUKJEE)
 - [Spyro The Dragon Cliff Town Gameplay](https://www.youtube.com/watch?v=JrTdPGCIDmQ)
 - [Chill Electro Study Music](https://www.youtube.com/watch?v=aoe2tiucNvM)
 - [No Copyright Sournds &lpar;NCS&rpar; Ikson Rays](https://www.youtube.com/watch?v=kHJ1PG_usWc)
-- [No Copyright Sounds &lpar;NCS&rpar; Keep Going](https://www.youtube.com/watch?v=YVbJ0IrrGIs)
 <!-- BLOG-POST-LIST:END -->
 
 # 📈 Github Stats
