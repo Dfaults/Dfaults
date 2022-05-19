@@ -44,11 +44,11 @@
 <!-- The next section will display the Dfaults youtube channel latest videos within the BLOG-POST-LIST block but will only be visible in the Github website -->
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe Command Injection Room](https://www.youtube.com/watch?v=DfgIL3S1WSk)
 - [Spyro Ice Cavern World Gameplay](https://www.youtube.com/watch?v=7HFbiunLoog)
 - [HackTheBox Tier 0 Starting Point: Meow](https://www.youtube.com/watch?v=_IbF8546NP4)
 - [HackTheBox Tier 0 Starting Point: Redeemer](https://www.youtube.com/watch?v=80vwiOUKJEE)
 - [Spyro The Dragon Cliff Town Gameplay](https://www.youtube.com/watch?v=JrTdPGCIDmQ)
-- [Chill Electro Study Music](https://www.youtube.com/watch?v=aoe2tiucNvM)
 <!-- BLOG-POST-LIST:END -->
 
 # 📈 Github Stats
