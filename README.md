@@ -44,11 +44,11 @@
 <!-- The next section will display the Dfaults youtube channel latest videos within the BLOG-POST-LIST block but will only be visible in the Github website -->
 
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox Tier 2 Starting Point: Oopsie](https://www.youtube.com/watch?v=SnUCXiooay0)
 - [HTB Starting Point 2: Archetype](https://www.youtube.com/watch?v=7DXabOgTiSk)
 - [HackTheBox Tier 1 Starting Point: Tactics](https://www.youtube.com/watch?v=WryJJ7AsKbc)
 - [HackTheBox Tier 1 Starting Point: Pennyworth](https://www.youtube.com/watch?v=bkY7h4kNR2I)
 - [HackTheBox Starting Point 1 Bike](https://www.youtube.com/watch?v=jXyUREbP0ls)
-- [HackTheBox Tier 1 Starting Point: Ignition](https://www.youtube.com/watch?v=vuoGEBgeE44)
 <!-- BLOG-POST-LIST:END -->
 
 # 📈 Github Stats
