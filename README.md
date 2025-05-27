@@ -76,7 +76,7 @@
 <!-- This section is for references, this is used as a variable to be used wherever the links provided here need to be used. -->
 
 [youtube]: https://www.youtube.com/channel/UCBemvv0Y6kj7f_Wbc5-9AKg
-[twitter]: https://twitter.com/secDfaults
+[My Website]: https://hackerwriteups.gitbook.io/hackerwriteups/
 [tryhackme]: https://tryhackme.com/p/Dfaults
 [LinkedIn]: https://www.linkedin.com/in/jean-feliciano-388a0b152/
 [HackTheBox]: https://app.hackthebox.com/profile/123527
